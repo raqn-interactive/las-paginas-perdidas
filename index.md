@@ -896,6 +896,8 @@ El objetivo principal del videojuego que se propone es la educación del jugador
 
 ### Otros
 
+más cosas acá
+
 ## Difusión y Comercializacion
 
 ### Público Objetivo
