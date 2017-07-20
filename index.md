@@ -67,25 +67,31 @@ La Isla Sur es aquella donde se encuentran las fábricas de las máquinas de com
 
 La Isla del Oeste es la zona salvaje de Terra. En esta zona se encuentra el Bosque de la Vida y el Lago Sagrado, y es habitada por campesinos, pescadores y leñadores que extraen los recursos naturales necesarios para la alimentación y subsistencia de la vida en Terra. Esta isla es administrada por la sacerdotisa descendiente de la primera sacerdotisa de Terra, llamada **Ushu** (que significa "la sangre de la planta"). 
 
-**Sobre los Guardianes**
+> @referente: Avatar (el animé, no la película)
+>
+> @referente: Chrono Trigger
 
-que al ser liberado Babel, son poseídos por máquinas-demonios controladas por Babel. 
-
-Urze: Al ser derrotada la máquina-monstruo que lo posee, entrega una llave que permite abrir la puerta del sótano de la Biblioteca, la que debe tener las cuatro gemas de los elementos para funcionar, estas gemas se encuentran repartidas por las cuatro islas de Terra y se deben incrustar en la llave para que esta abra la puerta al sótano.
-
-Anbad: Al ser derrotada la máquina-monstruo que la posee, entrega la Gema del Aire, necesaria para incrustar en la Llave de la Biblioteca y abrir la puerta del sótano.
-
-Kurish: Al ser derrotada la máquina-monstruo que lo posee, entrega la Gema del Fuego, segunda gema necesaria para incrustar en la Llave de la Biblioteca.
-
-Untum: Al ser derrotada la máquina-monstruo, entrega la Gema de la Tierra, necesaria para la Llave de la Biblioteca.
-
-Ushu: Al derrotar a la máquina-monstruo que la posee, entrega la última gema para la Llave de la Biblioteca, la Gema del Agua.
+> **Sobre los Guardianes**
+>
+> que al ser liberado Babel, son poseídos por máquinas-demonios controladas por Babel. 
+>
+> Urze: Al ser derrotada la máquina-monstruo que lo posee, entrega una llave que permite abrir la puerta del sótano de la Biblioteca, la que debe tener las cuatro gemas de los elementos para funcionar, estas gemas se encuentran repartidas por las cuatro islas de Terra y se deben incrustar en la llave para que esta abra la puerta al sótano.
+>
+> Anbad: Al ser derrotada la máquina-monstruo que la posee, entrega la Gema del Aire, necesaria para incrustar en la Llave de la Biblioteca y abrir la puerta del sótano.
+>
+> Kurish: Al ser derrotada la máquina-monstruo que lo posee, entrega la Gema del Fuego, segunda gema necesaria para incrustar en la Llave de la Biblioteca.
+>
+> Untum: Al ser derrotada la máquina-monstruo, entrega la Gema de la Tierra, necesaria para la Llave de la Biblioteca.
+>
+> Ushu: Al derrotar a la máquina-monstruo que la posee, entrega la última gema para la Llave de la Biblioteca, la Gema del Agua.
 
 ## Historia Previa a los Acontecimientos del Juego
 
 ***1000 años en el pasado***
 
 En los orígenes de Terra participaron varias divinidades. Entre estas figura Babel, la divinidad de la discordia y el conflicto, quien se alimenta de las discusiones y peleas de los seres vivos. Cuando Terra fue creada como un reino de paz y armonía, las divinidades enseñaron a sus primeros habitantes que la comunicación debía ser el valor primordial. Para esto les entregaron el Libro del Origen, que contendría todas las palabras, historias, y sabiduría del mundo. De ese modo protegerían a Terra de toda amenaza, de manera que nunca olvidaran lo aprendido en el pasado y siempre mantuvieran buenas relaciones y comunicación. Esto generó un profundo recelo en Babel, quien buscaba la forma de poder aumentar la discordia. Para esto elaboró un astuto plan: con sus restringidos poderes, les regaló a los primeros habitantes de Terra el conocimiento de la ciencia y la tecnología, que podrían complementar con su magia natural para mejorar su calidad de vida.
+
+> @referente: El Silmarillion (JRR Tolkien)
 
 ***400 años en el pasado***
 
@@ -103,6 +109,8 @@ Casi 400 años después de la primera batalla entre los habitantes de Terra y Ba
 
 Hace 17 años ocurrió un confuso incidente al interior de la Gran Fábrica, que significó la desaparición de muchos habitantes, incluídos los padres de Fra Fox y la madre de Ray Racoon. Por razones que nadie tiene claras, durante una mantención del reactor de vapor hubo una gran explosión que destruyó parte importante de la Fábrica, y en el cual murieron técnicos y trabajadores. El gobernador de Terra y los Guardianes se encargaron directamente del incidente, luego del cual las reparaciones permitieron que la Fábrica pudiera producir máquinas más grandes y eficientes. El lugar del suceso fue sellado y no se permitió el acceso a nadie más que a los dueños de la Fábrica y a algunos selectos personajes de Terra. No existe información pública sobre lo que ocurrió y luego de los funerales se prohibió la investigación de aquel incidente. Lo que nadie sabe es que en realidad este hecho fue gatillado por el culto secreto de Babel, compuesto por los guardianes corruptos y algunos secuaces que quedaron vivos después de la batalla entre los habitantes de Terra y Babel de hace 400 años. Estos seguidores de Babel se mantuvieron en las sombras buscando la forma de poder revivir a su líder, y aumentaron sus capacidades y longevidad integrando sus cuerpos con las máquinas. Los cultistas habían descubierto que la destrucción del Libro y de Babel estaban conectadas, y que para revivir a Babel se necesitaba deshacer el conjuro de encierro usando el mismo Libro, lo que requería recolectar sus páginas. Sin duda podrían saber cómo encontrar las páginas si accedían al sótano de la biblioteca, pero la llave estaba perdida desde la batalla anterior con Babel. Para revivir a Babel se necesitaba la llave del sótano y un elegido por el Libro, descendiente de los primeros eruditos, ya que solo ellos podían blandir el Libro y entender sus contenidos, pues el conocimiento para hacerlo había sido olvidado hacía muchos años.
 
+> @referente: Final Fantasy 7 - Capitulo "El incidente de Nibelheim"
+
 Así, los cultistas localizaron a los padres de Fra Fox, trabajadores de la fábrica y descendientes de los eruditos del Libro, quienes mantenían en secreto que su hija era la elegida y además, según se rumoreaba, custodiaban la llave del sótano. Ellos secuestraron a la pequeña Fra y forzaron a sus padres a revelar la ubicación de la llave, descubriendo que se encontraba bajo el reactor en la Gran Fábrica. De camino a la Gran Fábrica fueron seguidos por la madre de Ray Raccoon, que conocía de cerca a los padres de Fra y notó algo sospechoso en ellos. En la Gran Fábrica, llegando al lugar donde se encontraba la Llave, Fra se introdujo entre los recovecos de la maquinaria del reactor y recuperó la Llave. Cuando ésta iba a ser arrebatada por los cultistas, la madre de Ray se interpuso dejando caer la llave, generando una gran explosión que dividió la Llave en cinco piezas, destruyó el lugar aniquilando a todos los que se encontraban allí y a los trabajadores que estaban cerca, salvo a Fra, protegida por la madre de Ray, quien dio su vida por la pequeña. Fra se quedó con la Gema del Aire, una de las cinco Gemas en que se divide la llave. Las partes restantes se perdieron con la explosión. Fra perdió la memoria y fue encontrada inconsciente por los dueños de la Fábrica entre los escombros de la explosión con la Gema del Aire en su poder. Así fue adoptada y llevada a vivir a la Isla del Norte.
 
 Al dispersarse las piezas de la Llave, y con la energía liberada en la explosión, el espíritu del libro quedó incapaz de mantener completamente unidas las cinco islas y la desarmonía comenzó a apropiarse de Terra, permitiendo que Babel pudiera manifestarse espiritualmente en Terra. 
@@ -114,6 +122,8 @@ Un vapor espeso empieza a invadir toda Terra, incomunicando las islas flotantes,
 A continuación se presentan los eventos principales que ocurrirán durante el juego, pensados bajo la estructura del viaje del héroe y la progresión de una historia propuesta por Dan Harmon. 
 
 17 años después de este incidente, el juego comienza con Ray, convertido en un joven bardo que trabaja como mensajero, visitando a Snow en la Biblioteca de Terra, donde descubrirá progresivamente que es el nuevo elegido del Libro, que tiene el poder de leerlo y usar su conocimiento, y que será el encargado -junto a Snow- de recolectar las páginas que se han perdido a lo largo de todo Terra, descubriendo los secretos del pasado para traer nuevamente la paz y armonía al reino y derrotar definitivamente a Babel. 
+
+> @referente: Mario RPG (Storyline)
 
 1. **La zona de confort**: 
 
@@ -168,8 +178,9 @@ A continuación se presentan los eventos principales que ocurrirán durante el j
    *Epílogo:* Mientras Terra vuelve a la normalidad Ray y Snow han aprendido que las máquinas no eran el problema, sino sólo una herramienta que al ser mal utilizada puede traer inconvenientes y conducir a la ignorancia. Además, concuerdan en que es muy importante aprender a comunicarse, ya que es el valor que mantiene la sociedad unida. La historia termina con una fiesta en la aldea central, donde todos los habitantes que han solucionado sus problemas se encuentran compartiendo amenamente.
 
 
-
 # Personajes
+
+> @referente: Animal Crossing
 
 ## Protagonista
 
@@ -183,6 +194,10 @@ Es capaz de controlar las palabras gracias al conocimiento de la poesía clásic
 **Rol en la historia**: Es el héroe principal de la historia y es quien debe resolver el conflicto de incomunicación que se produce en Terra luego de la aparición de Babel. Está enamorado de Snow y decide acompañarla en la aventura de recuperar las páginas perdidas. En el camino descubrirá que es el elegido por el Libro para traer la paz y armonía a Terra.
 
 **Relaciones con otros personajes**: Ray es hijo de Rab Racoon, el cantante principal de Terra y de Fever Ferret quien se encuentra desaparecida. Está enamorado de Snow Squirrel y la visita diariamente en la Biblioteca.
+
+> @referente: Final Fantasy Tactics 
+>
+> @referente: Sly Cooper
 
 ## Sidekick
 
@@ -678,41 +693,37 @@ Entra en conflicto con la Fábrica misma, Ray y Snow lo ayudarán a buscar pista
 
 Ray y Snow descubren que son los responsables de que ella se encuentre perdida y la ayudan a recuperar su memoria luego de ver un cartel de persona perdida en los muros de la Ciudad del Centro. Gatilla la trigésima *controversia* del juego para obtener la páginas del Libro. Al resolver el conflicto se obtiene la letra K de las páginas del Libro lo que lo completa y les permite poder enfrentarse finalmente a Babel.
 
-
-
-```
-Esto debe estar organizado de la siguiente forma:
-
-(Para cada sección de referentes, apoyarse en otros videojuegos, libros, películas, animaciones, comics etc, buscar variedad y escribir una linea explicando qué cosa del referente rescatamos, además, incluir una imagen general del referente (logo, cover) y una imagen que ilustre el aspecto que nos interesa) 
-
-Premisa
-* +Referentes Generales (qué juegos se parecen?)
-
-Mundo del Juego
-* +Referentes (qué mundos se parecen y porqué?)
-* Descripción gral del mundo y de sus ambientes, con 1 foto principal de apoyo
-
-Historia
-* Contar la historia
-* +Referentes de la Historia (qué historias se parecen?)
-* Flujo de la historia (diagrama) http://www.gamasutra.com/blogs/EmanuelMontero/20091106/85856/Story_Flowchart_Diagrams.php
-
-* Diagramación en el modelo de Harmon http://cdn2.hubspot.net/hubfs/163348/dan-harmon-story-circle.jpg
-
-Personajes (por cada uno, incluir:)
-* Nombre
-* Edad y Género
-* Descripción Psicológica:
-	* General: Tipo de personalidad, carácter, virtudes y defectos.
-	* Arquetipo (si lo hay, es un bufón? etc...)
-* A donde va? (motivaciones)
-* De donde viene? (backstory, incluir habilidades del pje y como llego a tenerlas)
-* Rol en la historia
-* Relaciones con otros personajes
-* Imagen del personaje
-[Hacer este listado para: Protagonista, Sidekick, Antagonista, Otros NPC importantes]
-[Diagramar en formato infografía, no tabla]
-```
+> Esto debe estar organizado de la siguiente forma:
+>
+> (Para cada sección de referentes, apoyarse en otros videojuegos, libros, películas, animaciones, comics etc, buscar variedad y escribir una linea explicando qué cosa del referente rescatamos, además, incluir una imagen general del referente (logo, cover) y una imagen que ilustre el aspecto que nos interesa) 
+>
+> Premisa
+> * +Referentes Generales (qué juegos se parecen?)
+>
+> Mundo del Juego
+> * +Referentes (qué mundos se parecen y porqué?)
+> * Descripción gral del mundo y de sus ambientes, con 1 foto principal de apoyo
+>
+> Historia
+> * Contar la historia
+> * +Referentes de la Historia (qué historias se parecen?)
+> * Flujo de la historia (diagrama) http://www.gamasutra.com/blogs/EmanuelMontero/20091106/85856/Story_Flowchart_Diagrams.php
+>
+> * Diagramación en el modelo de Harmon http://cdn2.hubspot.net/hubfs/163348/dan-harmon-story-circle.jpg
+>
+> Personajes (por cada uno, incluir:)
+> * Nombre
+> * Edad y Género
+> * Descripción Psicológica:
+>  * General: Tipo de personalidad, carácter, virtudes y defectos.
+>  * Arquetipo (si lo hay, es un bufón? etc...)
+> * A donde va? (motivaciones)
+> * De donde viene? (backstory, incluir habilidades del pje y como llego a tenerlas)
+> * Rol en la historia
+> * Relaciones con otros personajes
+> * Imagen del personaje
+>   [Hacer este listado para: Protagonista, Sidekick, Antagonista, Otros NPC importantes]
+>   [Diagramar en formato infografía, no tabla]
 
 # Arte Conceptual
 
@@ -741,6 +752,8 @@ Personajes (por cada uno, incluir:)
 La progresión de la historia del juego se da en dos niveles. Por un lado está la progresión de la historia principal, que se centra en la búsqueda de las partes de la Llave que permiten abrir el sótano de la Biblioteca Central de Terra, que se cierra después que Babel es liberado gracias a la energía negativa que se ha expandido por todo Terra debido a la incomunicación que se genera con la proliferación de las máquinas. Se debe recorrer las 5 Islas y encontrar las partes de la Llave que permiten, junto al Libro completo, realizar los conjuros para derrotar a Babel y traer la unidad y armonía a Terra. Estas cinco piezas se encuentran en los edificios principales de cada isla y están en posesión de los máquinas demonio que poseen a los guardianes de cada isla. En cada edificio se debe resolver una misión de búsqueda de objetos que permiten acceder al lugar donde se encuentra cada máquina demonio, los que al ser derrotados liberan la pieza que permite obtener nuevas habilidades de lenguaje y abren una nueva parte del reino de Terra. Son en total 5 misiones, a las que se les suma una misión de introducción y una misión final de batalla contra Babel, teniendo una progresión lineal de avance por las Islas.
 
 Además existe un segundo nivel que funciona en paralelo al anterior, que es la búsqueda de las páginas del Libro del Orígen que Ray y Snow llevan consigo. La obtención de estas páginas permite acceder a palabras que dan conocimiento a los personajes principales y que son usadas como habilidades para los siguientes niveles del juego. Esta línea de progresión además enriquece la historia central del juego, ya que aporta en información relevante para comprender el mundo, la obtención de nuevas páginas y de las partes de la Llave, así como permite desarrollar las habilidades de los personajes. Son 13 misiones en total, en las que conoceremos a diversos personajes que entregaran información de la historia y además entregarán las distintas páginas del Libro correspondientes a cada una de las letras del abecedario. Además le permitirán al jugador practicar y utilizar las habilidades que va adquiriendo a lo largo del juego. La progresión de estas misiones es no lineal ya que se deberá recorrer en distinto orden los eventos que gatillan cada una de estas, recorriendo más de una vez las diversas islas del juego. 
+
+> @referente: The Legend of Zelda: a link to the Past
 
 ### Niveles
 
@@ -774,6 +787,10 @@ Según el diseño del juego, la exploración ocurre en varios niveles:
 2. La exploración de las historias de los personajes habitantes de Terra es un segundo nivel, donde acciones específicas del jugador le permitirán obtener más información sobre los personajes, sus historias de origen y el descubrimiento de *quests* adicionales.
 3. La exploración de la literatura y las figuras del lenguaje en el mundo real, ya que las mecánicas permitirán al jugador hacer relaciones con el contenido visto en clases.
 
+> @referente: Earthbound
+>
+> @referente: Don't Starve
+
 #### Coleccionismo
 
 El nivel primario de coleccionismo es la búsqueda de los objetos necesarios para la solución de los problemas que se le presenta al jugador en los dos niveles paralelos de desarrollo de la historia (búsqueda de las piezas de la Llave y la búsqueda de las páginas del Libro). 
@@ -782,9 +799,13 @@ Además existe un nivel de coleccionismo secundario, relacionado a los objetos d
 
 Si bien para terminar el juego no es necesario encontrar todas las páginas del Libro del Origen, obtenerlas todas permitirá la obtención de un final alternativo al obtenido al derrotar a Babel.
 
+> @referente: Pokèmon (todos)
+
 #### Estrategia
 
 La motivación desde la estrategia se promoverá principalmente a través de las mecánicas de batallas o *controversias*. Esto se realizará a través de estrategias de selección del elemento contrarrestante correcto para cada habilidad del enemigo, donde las habilidades del personaje y sus enemigos estarán relacionadas en la forma de un juego de *piedra, papel y tijeras*, es decir, para cada habilidad del oponente habrá una habilidad del jugador que le da ventaja sobre su contraparte, pero lo hará vulnerable a otras habilidades que el oponente puede tener.
+
+> @referente: Final Fantasy Tactics, Pokèmon
 
 ### Sistema de Experiencia y Habilidades
 
@@ -792,9 +813,7 @@ A medida que el jugador resuelva las tareas propuestas en el juego, adquirirá m
 
 Estas habilidades serán desbloqueadas a través de un sistema de experiencia basado en puntos. Cada cierto número de encuentros exitosos, y dependiendo de su desempeño, el jugador podrá acceder a *puntos de habilidad*, los que podrá usar para adquirir mejoras mecánicas y cosméticas en el juego.
 
-```
-(ej, exploración, maestría, coleccionismo, popularidad, etc.)https://image.slidesharecdn.com/emotions-game-narrative-20141204-141204011607-conversion-gate01/95/emotions-in-game-and-narrative-20141204-68-638.jpg?cb=1417656195 (cómo se conjugan los elementos motivacionales con la historia, la progresión y las mecánicas?)
-```
+> (ej, exploración, maestría, coleccionismo, popularidad, etc.) [Emotions in game and narrative](https://image.slidesharecdn.com/emotions-game-narrative-20141204-141204011607-conversion-gate01/95/emotions-in-game-and-narrative-20141204-68-638.jpg?cb=1417656195) (cómo se conjugan los elementos motivacionales con la historia, la progresión y las mecánicas?)
 
 # Mecánicas de Juego
 
@@ -807,6 +826,8 @@ El juego se desarrolla en un entorno 3D en el que se mezclan el entorno natural 
 La cámara general del mundo es en tercera persona aérea en perspectiva, la cámara está fija en esta posición mientras el personaje puede moverse en todas direcciones en un entorno 3D.
 
 Al momento de comenzar un enfrentamiento, la cámara se mantiene en el ángulo, pero cambia la distribución de los personajes. Vemos a Ray y Snow de espalda y aparece el libro al centro como menú de selección al frente vemos a los enemigos, ya sea confrontados para las controversias o de frente para los *Jefes* o los *Ibias*.
+
+> @referente: Don't Starve
 
 ### Condiciones de Victoria / Derrota
 
@@ -826,6 +847,10 @@ Las mecánicas de batalla propiamente tal son de selección de la habilidad, ít
 
 También existen artefactos de escritura (papel, lápiz, tinta, pluma, imprenta, etc.) que funcionan como objetos de ayuda para la construcción o destrucción de las habilidades que Ray y Snow van adquiriendo. La obtención de estos recursos permitirá ir juntando las partes del libro necesarias para completarlo y se pueda luchar contra Babel y poder derrotarlo definitivamente. 
 
+> @referente: Final Fantasy VII, Pokémon (usar las pantallas de batalla)
+>
+> @referente: The Legend Of Monkey Island (usar la pantalla de batalla de insultos)
+
 En lo específico, los minijuegos que aparecerían son: 
 
 1. Deletreo de palabras (componer palabras a partir de letras separadas).
@@ -841,9 +866,13 @@ Por otro lado, todos los objetos obtenidos en el juego podrán ser intercambiado
 
 ### Mecánicas Sociales
 
-Si bien la experiencia que se desarrolla dentro de un videojuego tiende a ser personal, y más aún en un juego del género RPG, en este caso, al ser un videojuego educativo, propone que la experiencia de resolver los problemas que presenta sean usados como herramienta pedagógica de apoyo al área de Lenguaje y Comunicación del segundo ciclo de Educación General Básica, y sean discutidos dentro del ambiente escolar tanto en la capacidad de resolución individual, así como en la sana discusión que debe darse dentro de la sala de clases. El juego busca estimular el gusto por la lectura y por la adecuada escritura, ya que genera contenido dinámico para que los estudiantes puedan socializarlo y discutirlo entre ellos y con sus profesores tanto a nivel de la narración (lo que cuenta la historia del juego) como a nivel narrativo (las acciones necesarias para resolver los problemas y misiones que el juego propone).
+Si bien la experiencia en un juego del género RPG suele ser personal, en este caso, al ser un videojuego educativo, se propone que la experiencia de resolver los problemas que presenta sean usados como herramienta pedagógica de apoyo al área de Lenguaje y Comunicación del segundo ciclo de Educación General Básica, y sean discutidos dentro del ambiente escolar tanto en la capacidad de resolución individual, así como en la sana discusión que debe darse dentro de la sala de clases. El juego busca estimular el gusto por la lectura y por la adecuada escritura, ya que genera contenido dinámico para que los estudiantes puedan socializarlo y discutirlo entre ellos y con sus profesores tanto a nivel de la narración (lo que cuenta la historia del juego) como a nivel narrativo (las acciones necesarias para resolver los problemas y misiones que el juego propone).
 
 Parte importante de la socialización será el intercambio de objetos entre los jugadores, por medio de la "Oficina de Correos" en la que deberán negociar personalmente fuera del juego por medio del uso de códigos propios, el intercambio de estos objetos necesarios para seguir avanzando en el juego. Además, se deberán coleccionar e intercambiar libros esparcidos por todo Terra para agrandar y fortalecer la biblioteca del reino, lo que permitirá obtener un final alternativo del juego.
+
+> @referente: World of Warcraft (Auction House)
+>
+> @referente: Pokèmon (intercambio de criaturas)
 
 # Interfaces
 
@@ -889,11 +918,15 @@ Ser creativo! pensar en ejemplos como la GUI de Dead Space
 
 **Interfaz**
 
+> @referente: ???
+
 # Plan de Retribución
 
 ## Propuesta Educativa
 
 El objetivo principal del videojuego que se propone es la educación del jugador en los contenidos y habilidades pertinentes al curso de Lenguaje y Comunicación del segundo ciclo de la Educación General Básica
+
+> @referente: Abrapalabra
 
 ### Objetivos de Aprendizaje Directos
 
