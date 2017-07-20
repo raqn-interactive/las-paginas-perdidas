@@ -974,7 +974,9 @@ Se descarta para este título la posibilidad de monetizar a través de advertisi
 
 ### Estrategia de Comunicación y Promoción
 
-???
+La estrategia de comunicación para Las Páginas Perdidas consiste de trabajo en dos frentes: El primero es la difusión abierta a través de canales tradicionales (Redes Sociales, Google Adwords), con la que se busca generar principalmente awareness.
+
+En segundo lugar, figura la estrategia de penetración directa a través de posters y visitas a colegios, esto para fomentar tanto la adopción directa como el boca-a-boca (word of mouth), esta segunda estrategia es la más costosa por lo que se escogerán cuidadosamente los establecimientos donde será realizada, de acuerdo a poder adquisitivo y cantidad de estudiantes. La presentación y entrega gratuita del producto a establecimientos estratégicos forma también parte del plan de retribución, y asimismo será utilizada con fines promocionales para extender el uso y alcance de la aplicación entre el público objetivo.
 
 ### Plan de Distribución y Comercialización
 
