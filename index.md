@@ -2,7 +2,9 @@
 
 #### Contenido
 
-[TOC]
+{:toc}
+
+
 
 # Introducción
 
