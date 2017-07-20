@@ -310,7 +310,7 @@ Estos son los NPC's enemigos que aparecen al interior de los edificios de las mi
 
 Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palabras de la lista de páginas del 
 
-##### GASHTU
+#### GASHTU
 
 **Edad:** Indeterminada  
 **HP:** 50  
@@ -318,7 +318,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Centro  
 **Descripción General:** Es un libro-máquina volador que aparece en las inmediaciones de la Biblioteca y dentro del Ayuntamiento.  
 
-##### DUBAN
+#### DUBAN
 
 **Edad:** Indeterminada
 **HP:** 80
@@ -326,7 +326,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Centro
 **Descripción General:** Es una máquina de escribir que usa plumas para escribir. Aparece al interior de la Biblioteca y del Ayuntamiento.
 
-##### ABAKAKHU
+#### ABAKAKHU
 
 **Edad:** Indeterminada
 **HP:** 100
@@ -334,7 +334,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Norte
 **Descripción General:** Es una máquina Mayordomo que aparece al interior de la Torre de Comercio.
 
-##### ELIMMU
+#### ELIMMU
 
 **Edad:** Indeterminada
 **HP:** 150
@@ -342,7 +342,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Norte
 **Descripción General:** Es una máquina-espectro de oro que aparece al interior de la Torre de Comercio.
 
-##### ENDURSAG
+#### ENDURSAG
 
 **Edad:** Indeterminada
 **HP:** 180
@@ -350,7 +350,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Este
 **Descripción General:** Es una máquina recolectora de carbón que aparece al interior del Volcán de Carbón.
 
-##### ADAD
+#### ADAD
 
 **Edad:** Indeterminada
 **HP:** 180
@@ -358,7 +358,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Este
 **Descripción General:** Es una máquina productora de rayos que aparece al interior del Volcán de Carbón.
 
-##### IZI
+#### IZI
 
 **Edad:** Indeterminada
 **HP:** 200
@@ -366,7 +366,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Sur
 **Descripción General:** Es una máquina de cómputo que aparece al interior de la Fábrica Central.
 
-##### KUSARIKKU
+#### KUSARIKKU
 
 **Edad:** Indeterminada
 **HP:** 220
@@ -374,7 +374,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Sur
 **Descripción General:** Es una máquina que transporta otras máquinas que aparece al interior de la Fábrica Central.
 
-##### EENGURRA
+#### EENGURRA
 
 **Edad:** Indeterminada
 **HP:** 250
@@ -382,7 +382,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 **Ubicación:** Isla del Oeste
 **Descripción General:** Es una máquina tipo baba de agua que aparece en el Templo del en la isla al Centro del Gran Lago.
 
-##### HASHUR
+#### HASHUR
 
 **Edad:** Indeterminada
 **HP:** 300
@@ -396,7 +396,7 @@ Estos enemigos entregan al ser derrotados: puntos de experiencia, objetos, palab
 
 Estos son los NPC's amistosos más importantes, ya que son los que entregan las misiones de obtención de las páginas perdidas del libro. Forman parte de la side quest de obtención de las páginas además entregan información importante del desarrollo de la historia central, además de información que le permitirá a los jugadores reconocer y usar las habilidades de lenguaje que Ray y Snow obtienen.
 
-##### Alger Alligator (evento 1)
+#### Alger Alligator (evento 1)
 
 **Edad:** 20 años
 **Género:** Femenino
@@ -404,7 +404,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es la secretaria del alcalde y vive en la isla del Oeste, trabaja todos los días en el ayuntamiento y resuelve los conflictos de los ciudadanos con la alcaldía.
 **Rol en la historia**: Entra en conflicto con Ernest Elephant y gatilla la primera *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras A y E del Libro y se activa el Evento 2.
 
-#####  Ernest Elephant
+#### Ernest Elephant
 
 **Edad:** 60 años
 **Género:** Masculino
@@ -412,7 +412,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es un habitante de Terra que entra en discusión con Alger Alligator por un problema no resuelto en la Isla Sur donde él habita.
 **Rol en la historia**: Entra en conflicto con Alger Alligator y gatilla la primera *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras A y E del Libro y se activa el Evento 2.
 
-#####  Ottis Otter (evento 2)
+#### Ottis Otter (evento 2)
 
 **Edad:** 25 años
 **Género:** Masculino
@@ -420,7 +420,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es el vendedor de la Librería General de la Isla del Centro de Terra. Vive en esta Isla y es muy jovial y diligente.
 **Rol en la historia**: Entra en conflicto con Shauna Sheep por un producto que no se encuentra a la venta en la Librería. Gatilla la segunda *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras O y S de las páginas del Libro y se activa el Evento 3.
 
-#####  Shauna Sheep
+#### Shauna Sheep
 
 **Edad:** 45 años
 **Género:** Masculino
@@ -428,7 +428,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es la profesora de la Escuela de Terra. Es muy estricta y rigurosa y le gusta que las cosas se hagan de acuerdo a su visión. Puede ser muy testaruda, aunque es cariñosa y amable.
 **Rol en la historia**: Entra en conflicto con Ottis Otter por un producto que no se encuentra a la venta en la Librería. Gatilla la segunda *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras O y S de las páginas del Libro y se activa el Evento 3.
 
-#####  Lou Lion (evento 3)
+#### Lou Lion (evento 3)
 
 **Edad:** 28 años
 **Género:** Masculino
@@ -436,7 +436,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es el jefe de los guardias del Centro Comercial, vive en la Isla de Sur y es hermano de Liam Lion. El trabajo se lo consigue Fra Fox, lo que le trae conflictos con su hermano Liam, quien odia a Fra Fox.
 **Rol en la historia**: Entra en conflicto con Dwin Donkey y Coln Cat debido a que estos se ponen a correr por el Hall y botan a varias personas y un basurero. Gatilla la tercera *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras L, D y C de las páginas del Libro y se activa el Evento 4.
 
-#####  Dwin Donkey
+#### Dwin Donkey
 
 **Edad:** 10 años
 **Género:** Masculino
@@ -444,7 +444,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es el medio hermano de Fra Fox y deambula por los corredores del Centro Comercial haciendo travesuras. Le gusta molestar a Lou Lion y burlarse de él. Es un niño arrogante y mimado
 **Rol en la historia**: Entra en conflicto con Lou Lion ya que junto a Colna Cat son sorprendidos por Lou corriendo por el Hall y botan a varias personas y un basurero, lo que genera su enojo. Gatilla la tercera *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras L, D y C de las páginas del Libro y se activa el Evento 4.
 
-#####  Colna Cat
+#### Colna Cat
 
 **Edad:** 11 años
 **Género:** Femenino
@@ -452,7 +452,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es amiga de Dwin Donkey y lo acompaña a todas sus travesuras. Es hija de un alto miembro de la élite y se han criado juntos. Es mimada y arrogante al igual que Dwin.
 **Rol en la historia**: Entra en conflicto con Lou Lion ya que junto a Dwin Donkey son sorprendidos por Lou corriendo por el Hall y botan a varias personas y un basurero, lo que genera su enojo. Gatilla la tercera *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras L, D y C de las páginas del Libro y se activa el Evento 4.
 
-#####  Roben Rhino (evento 4)
+#### Robert Rhino (evento 4)
 
 **Edad:** 40 años
 **Género:** Masculino
@@ -460,7 +460,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es un trabajador de la mina de carbón que es fanático de la literatura de misterio. Y siempre va a la Biblioteca a buscar y dejar los libros que le gustan.
 **Rol en la historia**: Entra en conflicto con Snow, porque ella no se encuentra en la Biblioteca atendiendo y esta está cerrada, lo que genera su enojo e intenta derribar la puerta principal. Gatilla la cuarta *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtiene la letra R de las páginas del Libro y se activa el Evento 5.
 
-#####  Tronm Tortoise (evento 5)
+#### Tronm Tortoise (evento 5)
 
 **Edad:** 55 años
 **Género:** Masculino
@@ -468,7 +468,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es el Alquimista de la mina de Carbón, trabaja desarrollando tecnología con magia para la mina. Es el padre de Snow.
 **Rol en la historia**: Entra en conflicto con Urls Urchin y Monk Moose por derramar líquido sobre los papeles de una importante fórmula en la que se encontraba trabajando. Gatilla la quinta *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras T, U y M de las páginas del Libro y se activa el Evento 6.
 
-#####  Urls Urchin
+#### Urls Urchin
 
 **Edad:** 25 años
 **Género:** Masculino
@@ -476,7 +476,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es uno de los ayudantes de Tronm Tortoise en la Oficina de Alquimia. Es el ayudante más joven y es bastante torpe. Siente cierta atracción por Snow, la que no es correspondida
 **Rol en la historia**: Entra en conflicto con Tronm Tortoise ya que junto a Monk Moose derraman líquido sobre los papeles de una importante fórmula en la que se encontraba trabajando Tronm. Gatilla la quinta *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras T, U y M de las páginas del Libro y se activa el Evento 6.
 
-##### Monk Moose
+#### Monk Moose
 
 **Edad:** 35 años
 **Género:** Femenino
@@ -484,7 +484,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es la ayudante más experimentada de Tronm Tortoise. Es muy rigurosa con su trabajo y pelea siempre con Urls Urchin, debido a su torpeza y poca prolijidad en la ejecución de su trabajo. Es la esposa de Norm Nightingale y juntos viven en la Isla Oeste.
 **Rol en la historia**: Entra en conflicto con Tronm Tortoise ya que junto a Urls Urchin derraman líquido sobre los papeles de una importante fórmula en la que se encontraba trabajando Tronm. Gatilla la quinta *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras T, U y M de las páginas del Libro y se activa el Evento 6.
 
-##### Norm Nightingale (evento 6)
+#### Norm Nightingale (evento 6)
 
 **Edad:** 38 años
 **Género:** Masculino
@@ -492,7 +492,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es el dueño de una tienda de instrumentos musicales al interior del Centro Comercial. Es bastante jovial, aunque suele enojarse con facilidad, sobre todo si tocan los instrumentos de su tienda sin su permiso. Es el esposo de Monk Moose y juntos viven en la Isla Oeste.
 **Rol en la historia**: Entra en conflicto con Iger Iguana, ya que deja que deja que Hally Hare toque los instrumentos de la tienda sin su permiso. Gatilla la sexta *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras N e I de las páginas del Libro y se activa el Evento 7.
 
-##### Iger Iguana
+#### Iger Iguana
 
 **Edad:** 22 años
 
@@ -504,7 +504,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 
 **Rol en la historia**: Entra en conflicto con Norm Nightingale, ya que deja que deja que Hally Hare toque los instrumentos de la tienda sin su permiso. Gatilla la sexta *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras N e I de las páginas del Libro y se activa el Evento 7.
 
-##### Gena Goat (evento 7)
+#### Gena Goat (evento 7)
 
 **Edad:** 28 años
 **Género:** Femenino
@@ -512,7 +512,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 **Descripción General:** Es una trabajadora de la Gran Fábrica. Siente gran admiración por Liam Lion y quiere ser como él y llegar a ser una gran dirigente. También siente una atracción amorosa por Liam. Trabaja muy duro para poder mantener a sus 6 hermanos que viven cerca del desierto en la Isla Sur, que es la zona más pobre de la Isla.
 **Rol en la historia**: Entra en conflicto con Vil Vulture por estar reprimiendo de mala forma a un trabajador nuevo de la Fábrica al dejar caer unas cajas con máquinas que transportaba. Gatilla la séptima *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras G y V de las páginas del Libro y se activa el Evento 8.
 
-##### Vil Vulture
+#### Vil Vulture
 
 **Edad:** 40 años
 
@@ -526,7 +526,7 @@ Estos son los NPC's amistosos más importantes, ya que son los que entregan las 
 
 Entra en conflicto con Gena Goat por estar reprimiendo de mala forma a un trabajador nuevo de la Fábrica al dejar caer unas cajas con máquinas que transportaba. Gatilla la séptima *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras G y V de las páginas del Libro y se activa el Evento 8.
 
-##### Brandon Beaver (evento 8)
+#### Brandon Beaver (evento 8)
 
 **Edad:** 40 años
 **Género:** Masculino
@@ -537,7 +537,7 @@ Entra en conflicto con Gena Goat por estar reprimiendo de mala forma a un trabaj
 
 Entra en conflicto con Prater Pig por dejar sus herramientas botadas y el trabajo a medio hacer e irse a comer sin ordenar su lugar de trabajo. Gatilla la octava *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras B y P de las páginas del Libro y se activa el Evento 9.
 
-##### Prater Pig
+#### Prater Pig
 
 **Edad:** 19 años
 **Género:** Masculino
@@ -547,7 +547,7 @@ Entra en conflicto con Prater Pig por dejar sus herramientas botadas y el trabaj
 **Rol en la historia**
 Entra en conflicto con Brandon Beaver por dejar sus herramientas botadas y el trabajo a medio hacer e irse a comer sin ordenar su lugar de trabajo. Gatilla la octava *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras B y P de las páginas del Libro y se activa el Evento 9.
 
-##### Quil Quail (evento 9)
+#### Quil Quail (evento 9)
 
 **Edad:** 19 años
 **Género:** Femenino
@@ -558,7 +558,7 @@ Entra en conflicto con Brandon Beaver por dejar sus herramientas botadas y el tr
 
 Entra en conflicto con Hilla Hen, quien la sorprende teniendo una cita con su novio Yan Yak, la que sus padres desaprueban. Gatilla la novena *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras Y, Q y H de las páginas del Libro y se activa el Evento 10. Desde este momento está disponible el Evento 12 que explica los eventos del pasado y que ayudan a entender los acontecimientos presentes, así como generan un cambio en Ray.
 
-##### Hilla Hen
+#### Hilla Hen
 
 **Edad:** 58 años
 
@@ -572,7 +572,7 @@ Entra en conflicto con Hilla Hen, quien la sorprende teniendo una cita con su no
 
 Entra en conflicto con Quil Quail y Yan Yak, a quienes sorprende teniendo una cita que ella desaprueba. Gatilla la novena *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras Y, Q y H de las páginas del Libro y se activa el Evento 10. Desde este momento está disponible el Evento 12 que explica los eventos del pasado y que ayudan a entender los acontecimientos presentes, así como generan un cambio en Ray.
 
-##### Yan Yak
+#### Yan Yak
 
 **Edad:** 21 años
 
@@ -586,7 +586,7 @@ Entra en conflicto con Quil Quail y Yan Yak, a quienes sorprende teniendo una ci
 
 Entra en conflicto con Hilla Hen, ya que es sorprendido teniendo una cita con Quil Quail Gatilla la novena *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras Y, Q y H de las páginas del Libro y se activa el Evento 10. Desde este momento está disponible el Evento 12 que explica los eventos del pasado y que ayudan a entender los acontecimientos presentes, así como generan un cambio en Ray.
 
-##### Flak Ferret (evento 10)
+#### Flak Ferret (evento 10)
 
 **Edad:** 30 años
 **Género:** Femenino
@@ -597,7 +597,7 @@ Entra en conflicto con Hilla Hen, ya que es sorprendido teniendo una cita con Qu
 
 Entra en conflicto con Jal Jackal y Zen Zebra por la disputa de un puesto de venta de productos en el Mercado de Productos de la Isla Oeste. Gatilla la décima *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras F, Z y J de las páginas del Libro y se activa el Evento 11.
 
-##### Jal Jackal
+#### Jal Jackal
 
 **Edad:** 30 años
 
@@ -611,7 +611,7 @@ Entra en conflicto con Jal Jackal y Zen Zebra por la disputa de un puesto de ven
 
 Entra en conflicto con Flak Ferret  y Zen Zebra por la disputa de un puesto de venta de productos en el Mercado de Productos de la Isla Oeste. Gatilla la décima *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras F, Z y J de las páginas del Libro y se activa el Evento 11.
 
-##### Zen Zebra
+#### Zen Zebra
 
 **Edad:** 32 años
 **Género:** Masculino
@@ -622,7 +622,7 @@ Entra en conflicto con Flak Ferret  y Zen Zebra por la disputa de un puesto de v
 
 Entra en conflicto con Jal Jackal y Flak Ferret por la disputa de un puesto de venta de productos en el Mercado de Productos de la Isla Oeste. Gatilla la décima *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras F, Z y J de las páginas del Libro y se activa el Evento 11.
 
-##### Ñem Ñandú (evento 11)
+#### Ñem Ñandú (evento 11)
 
 **Edad:** 27 años
 **Género:** Masculino
@@ -633,7 +633,7 @@ Entra en conflicto con Jal Jackal y Flak Ferret por la disputa de un puesto de v
 
 Entra en conflicto con Xipi Xiphias, al intentar instalar un molino de agua para los cultivos de su familia y destruye la vivienda de Xipi en la instalación. Gatilla la undécima *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras Ñ y X de las páginas del Libro y se activa el Evento 11.
 
-##### Xipi Xiphias (evento 12)
+#### Xipi Xiphias (evento 12)
 
 **Edad:** 60 años
 **Género:** Masculino
@@ -644,7 +644,7 @@ Entra en conflicto con Xipi Xiphias, al intentar instalar un molino de agua para
 
 Entra en conflicto con Ñem Ñandú, ya que éste, al intentar instalar un molino de agua para los cultivos de su familia, destruye la vivienda de Xipi en la instalación. Gatilla la undécima *controversia* del juego para obtener las páginas del Libro. Al resolver el conflicto se obtienen las letras Ñ y X de las páginas del Libro y se activa el Evento 11.
 
-##### Walt Wolf (evento 13)
+#### Walt Wolf (evento 13)
 
 **Edad:** 45 años
 **Género:** Masculino
@@ -657,7 +657,7 @@ Entra en conflicto con la Fábrica misma, Ray y Snow lo ayudarán a buscar pista
 
 
 
-##### Kally Koala
+#### Kally Koala
 
 **Edad:** 70 años
 **Género:** Femenino
@@ -819,7 +819,7 @@ También existen artefactos de escritura (papel, lápiz, tinta, pluma, imprenta,
 En lo específico, los minijuegos que aparecerían son: 
 
 1. Deletreo de palabras (componer palabras a partir de letras separadas).
-2. Completar frases con la palabra correcta. 
+2. Encontrar la palabra correcta (al componer frases y proponer definiciones)
 3. Ordenar palabras, puntuación y acentuación para darle coherencia a una frase. 
 4. Uso correcto de ilativos, pronombre, conjunciones (usar formas específicas del lenguaje para que las frases tengan sentido).
 5. Batallas de rimas (primero enfatizando las métricas y luego figuras poéticas y retóricas en el texto) 
@@ -887,16 +887,54 @@ El objetivo principal del videojuego que se propone es la educación del jugador
 
 ### Objetivos de Aprendizaje Directos
 
+Los objetivos de aprendizaje directos del videojuego consisten en la adquisición de conocimientos y habilidades en el ámbito del currículum educativo del curso de lenguaje y comunicación. En específico, estos objetivos se corresponden con las respectivas mecánicas de *controversia* presentes en el juego, a saber:
+
+1. Deletreo de palabras (componer palabras a partir de letras separadas).
+
+   **OA_1**: Leer de manera fluida textos variados apropiados a su edad.
+
+2. Encontrar la palabra correcta (al componer frases y proponer definiciones)
+
+   **OA_12**: Aplicar estrategias para determinar el significado de palabras nuevas.
+
+   **OA_18**: Escribir, revisar y editar sus textos para satisfacer un propósito y transmitir sus ideas con claridad.
+
+   **OA_19**: Incorporar de manera pertinente en la escritura el vocabulario nuevo extraído de textos escuchados o leídos.
+
+   **OA_20**: Distinguir matices entre sinónimos al leer, hablar y escribir para ampliar su comprensión y capacidad expresiva.
+
+3. Ordenar palabras, puntuación y acentuación para darle coherencia a una frase. 
+
+   **OA_22**: Escribir correctamente para facilitar la comprensión por parte del lector, aplicando las reglas ortográficas aprendidas en años anteriores.
+
+4. Uso correcto de ilativos, pronombre, conjunciones (usar formas específicas del lenguaje para que las frases tengan sentido).
+
+   **OA_22**: Escribir correctamente para facilitar la comprensión por parte del lector, aplicando las reglas ortográficas aprendidas en años anteriores.
+
+5. Batallas de rimas (primero enfatizando las métricas y luego figuras poéticas y retóricas en el texto).
+
+   **OA_26**: Dialogar para compartir y desarrollar ideas y buscar acuerdos.
+
+6. Realizar interpretación de textos (inferencia, deducción, predicción, valoración).
+
+   **OA_2**: Comprender textos aplicando estrategias de comprensión lectora.
+
+   **OA_4**: Analizar aspectos relevantes de narraciones leídas para profundizar su comprensión.
+
+   ​
+
 ### Objetivos de Aprendizaje Transversal
 
-- Citas y Referencias a la Literatura
-- Coleccionismo de Libros
+Adicionalmente, el videojuego cubre otros objetivos de aprendizaje, esta vez de manera transversal, a través de elementos más incidentales de la interacción entre el usuario y el videojuego, a saber:
 
-...así como comprender los diversos usos de los objetos gramaticales y sintácticos del lenguaje castellano. Las mecánicas se desarrollan precisamente para permitir una mejor comprensión del idioma castellano escrito, esperando generar la motivación necesaria en los jugadores que fomente el buen uso del lenguaje y la valoración de la importancia de este en las relaciones sociales cotidianas.
+- **Citas y Referencias a la Literatura**: Tanto las historias de los personajes, como la historia principal del juego son referibles a ( y basadas en ) historias presentes en varios clásicos de la literatura universal, y referenciables por los docentes en las etapas reflexivas posteriores a la utilización del videojuego.
+- **Coleccionismo de Libros**: El jugador encontrará en su aventura una variedad de ítems coleccionables, entre los cuales destacan libros que podrá ir devolviendo a la biblioteca o intercambiando con otros jugadores a cambio de contenido desbloqueable. Los títulos de estos ítems, así como las circunstancias en las que el jugador los obtiene serán directamente referenciables a los clásicos de la literatura universal.
 
-### Otros
+Esto impacta transversalmente en los siguientes objetivos de aprendizaje:
 
-más cosas acá
+**OA_3**: Leer y familiarizarse con un amplio repertorio de literatura para aumentar su conocimiento del mundo, desarrollar su imaginación y reconocer su valor social y cultural.
+
+**OA_9**: Desarrollar el gusto por la lectura, leyendo habitualmente diversos textos.
 
 ## Difusión y Comercializacion
 
