@@ -715,8 +715,8 @@ Ray y Snow descubren que son los responsables de que ella se encuentre perdida y
 > * Nombre
 > * Edad y Género
 > * Descripción Psicológica:
->  * General: Tipo de personalidad, carácter, virtudes y defectos.
->  * Arquetipo (si lo hay, es un bufón? etc...)
+> * General: Tipo de personalidad, carácter, virtudes y defectos.
+> * Arquetipo (si lo hay, es un bufón? etc...)
 > * A donde va? (motivaciones)
 > * De donde viene? (backstory, incluir habilidades del pje y como llego a tenerlas)
 > * Rol en la historia
@@ -910,15 +910,27 @@ Ser creativo! pensar en ejemplos como la GUI de Dead Space
 
 # Diseño de Sonido
 
-**Música**
+**Música de Ambientación**
+
+En los paisajes exteriores y naturales se priorizará el uso de instrumentos de cuerda tipo cítara y arpa, además de sonidos de instrumentos de viento como las flautas sakuhashi, ocarina y flauta dulce, de características más agudas.
+
+Los interiores de las viviendas mantienen características similares a las anteriores, con tonos más cálidos y variaciones que permitan expresar las actividades del lugar. 
+
+La música de los lugares ocupados por máquinas se identificará con sonidos de carácter metálico, enfatizando el aspecto industrial de los lugares, así como el uso de sonidos sintetizados para dar la sensación de industria.
+
+La música de las batallas se desarrollará según el lugar donde se desenvuelvan las mismas, manteniendo el tono de la música del lugar, cambiando en su tempo para generar la sensación de premura y acción.
 
 **FX**
 
+Se priorizará el movimiento de los personajes principales (pasos) y la interacción que estos tienen con los objetos y lugares. También se enfatizará a través de sonidos para los momentos importantes del juego, como el uso de objetos y habilidades, así como en los momentos de triunfo en combate y en la obtención de premios. Los sonidos serán generados por síntesis de sonidos metálicos y maquínicos, en contraste con sonidos de espectro más amplio asociados a texturas de papel y madera.
+
 **Diálogos**
+
+Los diálogos son un elemento importante en el juego, ya que entregan la información necesaria para comprender la historia y resolver las misiones. Si bien no existirán diálogos hablados, se acompañarán las interacciones con un sonido ininteligible que asemeje una conversación. A medida que se progresa en el juego y se mejora la comunicación en el reino de Terra, los sonidos se volverán más entendibles asemejandose a una voz hablando.
 
 **Interfaz**
 
-> @referente: ???
+La interfaz del juego tendrá efectos de sonido que permitan comprender el paso de un elemento a otro, para facilitar a los jugadores la experiencia de búsqueda dentro de los diversos menús.
 
 # Plan de Retribución
 
